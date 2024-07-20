@@ -19,4 +19,4 @@ Let's contribute to the future, together.
 
 Logo in `#06038D` | Logo in `#FFFFFF` | Logo in `#000000`
 :-------------------------:|:-------------------------: | :-------------------------:
-![Logo in ](/assets/pranam-logo-blue.png) | ![Logo in ](/assets/pranam-logo-white.png) | ![Logo in ](/assets/pranam-logo-black.png)
+![Logo in #06038D ](/assets/pranam-logo-blue.png) | ![Logo in #FFFFFF](/assets/pranam-logo-white.png) | ![Logo in #000000](/assets/pranam-logo-black.png)
