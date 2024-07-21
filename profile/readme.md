@@ -1,7 +1,6 @@
 ### 🎯 Objective
 
-1. To build software platforms that ease the daily lives of people.
-2. To build a sustainable, resilient, and responsible ecosystem focused on the betterment of society in education, healthcare, commerce, management, and social welfare through our software platforms.
+To create software platforms that ease the daily lives of people and foster a sustainable, resilient, and socially responsible ecosystem across education, healthcare, commerce, management, and social welfare.
 
 ### 👩‍💻 Useful resources
 
